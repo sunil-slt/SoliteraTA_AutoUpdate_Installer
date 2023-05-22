@@ -1,0 +1,11 @@
+version: 3.1.2
+files:
+  - url: SoliteraTA-3.1.2-mac.zip
+    sha512: C3JBgi5+R4b5uWgBEueEJPHebFKG1P5y2UWYYuJxkJfpIEgzOM2gasUQ19LqfEmqiuzVvCrCmHxVUH3Ahsp+zA==
+    size: 462402148
+  - url: SoliteraTA-3.1.2.dmg
+    sha512: M7uDhn0dEMCIIi+c9bxaCl9VGiobsyVTMjN6MpGcdtYNHLtpb7aHiXxCQRVAk6XSOq4rq/rwJOifMNaXlHj0fw==
+    size: 472556223
+path: SoliteraTA-3.1.2-mac.zip
+sha512: C3JBgi5+R4b5uWgBEueEJPHebFKG1P5y2UWYYuJxkJfpIEgzOM2gasUQ19LqfEmqiuzVvCrCmHxVUH3Ahsp+zA==
+releaseDate: '2023-05-22T12:46:03.681Z'
